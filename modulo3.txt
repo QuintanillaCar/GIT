@@ -1,0 +1,2 @@
+Construir una página web responsiva básica utilizando HTML, CSS y JavaScript acorde a las
+buenas prácticas de la industria 
